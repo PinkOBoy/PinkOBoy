@@ -6,7 +6,9 @@ I'm a college student, studying a degree related to the field of Computer Engine
 
 I'm starting to specialize in **Artificial Intelligence**, not only because its the current trend or the possibility of getting a lucrative job, but because of the opportunity of participating in any multidisciplinary research.
 
+<!-- 
 People have different aspirations for what they want their profession to be; bigger or smaller aspirantions, but promises to themselves, nonetheless. One of mine consists in contributing as a researcher in **Computational Neuroscience**, but thats a goal really far away from from where I am.
+-->
 
 There's also a particular thing I really like about all this idea of the Open Source Knowledge. If I had the option, I prefer not to teach. Although, I really like making great notes and writing usefull resources for students to use (for free, of course). GitHub grant students of my university a place to share notes, code, solved exercise and even frameworks to work on projects of particular subjects.
 
